@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1385109284 source:c:\documents and settings\yali\my documents\math\math\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+
+1385103180 source:d:\שי\projects\math\math\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+
