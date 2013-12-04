@@ -1,7 +1,8 @@
 math_for_kids
 =============
 
-simple mathematics exercises for kids
+simple mathematics exercises for kids.
 
-Uploaded as codeblocks project to github
+written in c, and Uploaded as codeblocks project to github
+
 
